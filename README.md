@@ -24,15 +24,15 @@ win10
 
 ## Task 1 - Boston Housing Problem
 
-* [Linear regression](./Boston Housing Problem/Linear+regression.html)
+* [Linear regression](https://github.com/Anilople/ML-assignment/blob/master/Boston%20Housing%20Problem/Linear%20regression.ipynb)
 
 
-* [Neural Network](./Boston Housing Problem/Neural+Network.html)
+* [Neural Network](https://github.com/Anilople/ML-assignment/blob/master/Boston%20Housing%20Problem/Neural%20Network.ipynb)
 
 ## Task 2 - handwritten digits recognition 
 
-* [Neural Network](./handwritten digits recognition/MNIST.html)
+* [Neural Network](https://github.com/Anilople/ML-assignment/blob/master/handwritten%20digits%20recognition/MNIST.ipynb)
 
 ## Task 4 - Character recognition (digits) data
 
-* [Neural Network](./Character recognition (digits) data/ocr.html)
+* [Neural Network](https://github.com/Anilople/ML-assignment/blob/master/Character%20recognition%20(digits)%20data/ocr.ipynb)
